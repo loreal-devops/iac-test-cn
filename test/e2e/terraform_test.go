@@ -43,3 +43,5 @@ func testExample(t *testing.T, exampleRelativePath string, useForEach bool) {
 		assert.Regexp(t, regexp.MustCompile("/subscriptions/.+/resourceGroups/.+/providers/Microsoft.Network/virtualNetworks/.+"), vnetId)
 	})
 }
+
+
