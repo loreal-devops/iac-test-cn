@@ -6,3 +6,4 @@ ENHANCEMENTS:
 * Modify vnet's ddos protection plan to be configurable. [#66](https://github.com/Azure/terraform-azurerm-vnet/pull/66)
 
 BUG FIXES:
+   
